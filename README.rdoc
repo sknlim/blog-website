@@ -1,2 +1,2 @@
-A Blog website on Ruby 2.2.0 on Rails 4.2.0
+A Blog website on Ruby 2.2.0 + Rails 4.2.0
 
