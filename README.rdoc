@@ -1,2 +1,2 @@
-BLOG done with Ruby 4 on Rails 2.
+A Blog website on Ruby 2.2.0 on Rails 4.2.0
 
